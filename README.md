@@ -1,6 +1,6 @@
 ##  Hi I'm Amr Ezz
 <a href="https://www.facebook.com/amro.ezz1/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="[[https://www.facebook.com/amro.ezz1/]()](https://www.kaggle.com/amrodev)"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="[[https://www.facebook.com/amro.ezz1/]()](https://www.kaggle.com/amrodev)"> <img src="[https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)"></a>
 <a href="[https://www.facebook.com/amro.ezz1/](https://www.kaggle.com/amrodev)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
