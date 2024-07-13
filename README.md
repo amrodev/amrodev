@@ -1,5 +1,5 @@
 ##  Hi I'm Amr Ezz
-	![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+(https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 <!--
 **amrodev/amrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
