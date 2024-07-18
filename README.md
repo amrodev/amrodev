@@ -4,6 +4,10 @@
 <a href="https://www.linkedin.com/in/amr-ezz-b4932858/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto: amrodev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+- 🔭 I’m currently working on neQabty
+- 🌱 I’m currently learning AI
+- 💬 Ask me about any techincal issue
+
 
 
 
